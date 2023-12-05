@@ -1,0 +1,196 @@
+PS C:\Users\Usuário\Desktop\Sniffer> & C:/Python312/python.exe c:/Users/Usuário/Desktop/Sniffer/SnifferTCP/Sniffer.py
+Porta de Origem: 51606
+Porta de Destino: 443
+Número de Sequência: 856430589
+Número de Confirmação: 4094355643
+Offset: 5
+Reservados: 0
+Flags TCP: ACK, PSH
+Tamanho da Janela: 515
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 10.0.0.18:51606 > 20.50.201.200:https PA / Raw
+***************************************
+Porta de Origem: 51606
+Porta de Destino: 443
+Número de Sequência: 856430713
+Número de Confirmação: 4094355643
+Offset: 5
+Reservados: 0
+Flags TCP: ACK, PSH
+Tamanho da Janela: 515
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 10.0.0.18:51606 > 20.50.201.200:https PA / Raw
+***************************************
+Porta de Origem: 51799
+Porta de Destino: 443
+Número de Sequência: 3681171946
+Número de Confirmação: 0
+Offset: 8
+Reservados: 0
+Flags TCP: SYN
+Tamanho da Janela: 64240
+Ponteiro de Urgência: 0
+Opções: [('MSS', 1460), ('NOP', None), ('WScale', 8), ('NOP', None), ('NOP', None), ('SAckOK', b'')]
+Dados: IP / TCP 10.0.0.18:51799 > 51.104.15.253:https S
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51606
+Número de Sequência: 4094355643
+Número de Confirmação: 856430589
+Offset: 8
+Reservados: 0
+Flags TCP: ACK
+Tamanho da Janela: 2049
+Ponteiro de Urgência: 0
+Opções: [('NOP', None), ('NOP', None), ('SAck', (856430713, 856432153))]
+Dados: IP / TCP 20.50.201.200:https > 10.0.0.18:51606 A
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51606
+Número de Sequência: 4094355643
+Número de Confirmação: 856432153
+Offset: 5
+Reservados: 0
+Flags TCP: ACK
+Tamanho da Janela: 2053
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 20.50.201.200:https > 10.0.0.18:51606 A / Padding
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51606
+Número de Sequência: 4094355643
+Número de Confirmação: 856435033
+Offset: 5
+Reservados: 0
+Flags TCP: ACK
+Tamanho da Janela: 2053
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 20.50.201.200:https > 10.0.0.18:51606 A / Padding
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51606
+Número de Sequência: 4094355643
+Número de Confirmação: 856435477
+Offset: 5
+Reservados: 0
+Flags TCP: ACK, PSH
+Tamanho da Janela: 2051
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 20.50.201.200:https > 10.0.0.18:51606 PA / Raw
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51606
+Número de Sequência: 4094355698
+Número de Confirmação: 856435477
+Offset: 5
+Reservados: 0
+Flags TCP: ACK, PSH
+Tamanho da Janela: 2051
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 20.50.201.200:https > 10.0.0.18:51606 PA / Raw
+***************************************
+Porta de Origem: 51606
+Porta de Destino: 443
+Número de Sequência: 856435477
+Número de Confirmação: 4094355753
+Offset: 5
+Reservados: 0
+Flags TCP: ACK
+Tamanho da Janela: 515
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 10.0.0.18:51606 > 20.50.201.200:https A
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51606
+Número de Sequência: 4094355753
+Número de Confirmação: 856435477
+Offset: 5
+Reservados: 0
+Flags TCP: ACK, PSH
+Tamanho da Janela: 2051
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 20.50.201.200:https > 10.0.0.18:51606 PA / Raw
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51606
+Número de Sequência: 4094355795
+Número de Confirmação: 856435477
+Offset: 5
+Reservados: 0
+Flags TCP: ACK, PSH
+Tamanho da Janela: 2051
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 20.50.201.200:https > 10.0.0.18:51606 PA / Raw
+***************************************
+Porta de Origem: 51606
+Porta de Destino: 443
+Número de Sequência: 856435477
+Número de Confirmação: 4094355895
+Offset: 5
+Reservados: 0
+Flags TCP: ACK
+Tamanho da Janela: 514
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 10.0.0.18:51606 > 20.50.201.200:https A
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51799
+Número de Sequência: 3706940620
+Número de Confirmação: 3681171947
+Offset: 8
+Reservados: 0
+Flags TCP: ACK, SYN
+Tamanho da Janela: 65535
+Ponteiro de Urgência: 0
+Opções: [('MSS', 1440), ('NOP', None), ('WScale', 8), ('NOP', None), ('NOP', None), ('SAckOK', b'')]
+Dados: IP / TCP 51.104.15.253:https > 10.0.0.18:51799 SA
+***************************************
+Porta de Origem: 51799
+Porta de Destino: 443
+Número de Sequência: 3681171947
+Número de Confirmação: 3706940621
+Offset: 5
+Reservados: 0
+Flags TCP: ACK
+Tamanho da Janela: 517
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 10.0.0.18:51799 > 51.104.15.253:https A
+***************************************
+Porta de Origem: 51799
+Porta de Destino: 443
+Número de Sequência: 3681171947
+Número de Confirmação: 3706940621
+Offset: 5
+Reservados: 0
+Flags TCP: ACK, PSH
+Tamanho da Janela: 517
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 10.0.0.18:51799 > 51.104.15.253:https PA / Raw
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51799
+Número de Sequência: 3706940621
+Número de Confirmação: 3681172464
+Offset: 5
+Reservados: 0
+Flags TCP: ACK
+Tamanho da Janela: 2051
+Ponteiro de Urgência: 0
+Opções: []
+Dados: IP / TCP 51.104.15.253:https > 10.0.0.18:51799 A / Raw
+***************************************
+Porta de Origem: 443
+Porta de Destino: 51799
+Número de Sequência: 3706942061
